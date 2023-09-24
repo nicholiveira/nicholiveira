@@ -1,5 +1,4 @@
-## Olá! Eu sou o Nicholas Oliveira
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=40&pause=1000&color=EE82EE&center=falso&vCenter=verdadeiro&repeat=verdadeiro&width=1000&height=80&lines=Ol%C3%A1++meu+nome+%C3%A9+Nicholas!!;Sou+desenvolvedor+de+Software+Backend)](https://git.io/typing-svg)
 - 📚 Estudando programação com foco em back-end
 - 🐱🐱🐶 Pai de pet
 - 🎶 Apaixonado por música
