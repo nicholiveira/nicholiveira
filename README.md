@@ -8,7 +8,7 @@
 <div> <img align="right" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/1140419993956253817/1155373502422065202/Design_sem_nome.gif?width=80&height=100">
   <a href="https://github.com/nicholiveira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicholiveira&show_icons=true&theme=cobalt"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholiveira&layout=compact&langs_count=6&theme=cobalt"/>
+  <img width="150"&height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholiveira&layout=compact&langs_count=6&theme=cobalt"/>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholiveira&theme=cobalt&hide_border=true"/>
  
 </div>
