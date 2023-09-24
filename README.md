@@ -6,7 +6,7 @@
 - 🧘‍♂️ Sempre em busca do auto-conhecimento
  
 <div> 
- <img align="left" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/1140419993956253817/1155373502422065202/Design_sem_nome.gif?width=95&height=125">
+ <img align="left" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/1140419993956253817/1155373502422065202/Design_sem_nome.gif?width=85&height=125">
   <a href="https://github.com/nicholiveira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicholiveira&show_icons=true&theme=cobalt"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholiveira&layout=compact&langs_count=6&theme=cobalt"/>
